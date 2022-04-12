@@ -1,7 +1,7 @@
 # monthly_challenge
-Django Beginner Project for python course: Paython Django, The practical guide.
+## Django Beginner Project for python course: Paython Django, The practical guide.
 
-# Contains code for simple project settings
-# Include routes, views, apps
-# Load static files
-# Django template language basics
+Contains code for simple project settings
+Include routes, views, apps
+Load static files
+Django template language basics
